@@ -1,4 +1,4 @@
-int SensorLuz=12;
+int SensorLuz=2;
 bool Luz=0;
 
 void setup() {
